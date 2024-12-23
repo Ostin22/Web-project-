@@ -1,0 +1,39 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+    align-items: center;         
+    height: 100vh;
+    margin: 0;
+    background-color: #800020;   
+    margin-top: 50px;            
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+button {
+    padding: 10px 25px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 23px;
+    background-color: #004d40; 
+    color: black;              
+    border: none;
+    border-radius: 78px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+#number {
+    font-size: 25px;
+    margin-top: 25px;
+    color: white; 
+}
+
